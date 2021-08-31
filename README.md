@@ -21,7 +21,7 @@ I am documenting this process as I have had difficulty in getting the ASDM-IDM s
 ### Install Oracle JRE 7.45
 **Step 1:** Download and Install Oracle JRE 7.45
 
-A copy of the Oracle JRE 7.45 can be downloaded from my repository via this [link](https://github.com/jjkirn/asdm/).
+A copy of the Oracle JRE 7.45 can be downloaded from my repository via this [link](https://github.com/jjkirn/ASDM/blob/main/jre-7u45-windows-x64.zip).
 
 Once you have downloaded it, just un-zip it and install it.
 
@@ -29,25 +29,31 @@ Once you have downloaded it, just un-zip it and install it.
 **Step 2:** Install the Cisco ASDM Launcher:
 
 Open a web browser window to the IP address of your Cisco ASA. You should see something similar to:
+
 ![asdm](images/asdm.png)
 
 Click on the "Install ASDM Launcher" to install the ASDM-IDM Java application. You will be prompted for the user and password for the web interface for the ASA. After you successfully complete the login you will be rewarded with an installer file in your "Downloads" folder called "dm-launcher.msi". 
 
 Install the "dm-launcher.msi" application and you should see the following:
+
 ![asdm](images/idm1.png)
 
 Once the install is complete you should have a link on your desktop labeled "Cisco ASDM-IDM Launcher".
+
 ![asdm](images/link.png)
 
 Click on the link to launch the ASDM-IDM Java web application. You may get an "Untrusted message" as follows:
+
 ![asdm](images/untrusted.png)
 Just click on "Continue" to complete the application launch.
 
 Next you should be prompted with the login page from the ASDM-IDM application:
+
 ![asdm](images/idm2.png)
 
 After you enter the "Device IP Address" of you Cisco ASA and your Username and Password the
 the Java application successful launch should look like:
+
 ![asdm](images/idm3.png)
 
 At this point you are now able to modify/change/add to the Cisco ASA configuration using a GUI interface. Enjoy!
