@@ -62,7 +62,7 @@ Click on the link to launch the ASDM-IDM Java web application. You may get an "U
 
 ![asdm](images/untrusted.png)
 
-ust click on "Continue" to complete the application launch.
+Just click on "Continue" to complete the application launch.
 
 Next you should be prompted with the login page from the ASDM-IDM application:
 
