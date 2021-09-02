@@ -12,7 +12,7 @@ As of August 25, 2017 Cisco no longer sells this product.
 
 As of August 31, 2022 Cisco no longer supports this product.
 
-However, mine still work!
+However, mine still works!
 
 ## Cisco ASDM
 
@@ -61,7 +61,8 @@ Once the install is complete you should have a link on your desktop labeled "Cis
 Click on the link to launch the ASDM-IDM Java web application. You may get an "Untrusted message" as follows:
 
 ![asdm](images/untrusted.png)
-Just click on "Continue" to complete the application launch.
+
+ust click on "Continue" to complete the application launch.
 
 Next you should be prompted with the login page from the ASDM-IDM application:
 
