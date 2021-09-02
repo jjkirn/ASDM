@@ -1,6 +1,22 @@
-# Cisco ASDM
+# Cisco ASA 5505 Adaptive Security Appliance
 
-> The Cisco Adaptive Security Device Manager (ASDM) lets you manage Cisco Adaptive Security Appliance (ASA) firewalls and the Cisco AnyConnect Secure Mobility Client through a local, web-based interface.
+The Cisco ASA 5505 is a full-featured firewall, SSL and IPsec VPN, and rich networking services in a modular appliance. Using the integrated graphical Cisco Adaptive Security Device Manager (ASDM), the Cisco ASA 5505 can be rapidly deployed and easily managed, helping businesses reduce operational costs. It features a flexible 8-port 10/100 Fast Ethernet switch whose ports can be dynamically grouped to create up to three separate VLANs for home, business, and Internet traffic for improved network segmentation and security.
+
+![asdm](images/asa-front.png)
+Front View
+
+![asdm](images/asa-back.png)
+Back View
+
+As of August 25, 2017 Cisco no longer sells this product.
+
+As of August 31, 2022 Cisco no longer supports this product.
+
+However, mine still work!
+
+## Cisco ASDM
+
+The Cisco Adaptive Security Device Manager (ASDM) lets you manage Cisco Adaptive Security Appliance (ASA) firewalls and the Cisco AnyConnect Secure Mobility Client through a local, web-based interface.
 
 ## ASDM-IDM Interface
 The IDM is a web-based, Java Web Start application that enables you to configure and manage your sensor (Cisco ASA). The web server for the IDM resides on the sensor (Cisco ASA). You can access it through Chrome or Firefox web browsers.
